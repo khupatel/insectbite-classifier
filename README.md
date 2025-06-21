@@ -17,8 +17,8 @@ CNN:
 InceptionV3:   
   InceptionV3.py – Trains an InceptionV3 model on the insect bite dataset.  
   InceptionV3_fst.py - Tests the InceptionV3 model with the bite_dataset_fst to evaluate the model's performance on dark skin tones.  
-  InceptionV3_fst_finetune.py – Improves an InceptionV3 model by transferring knowledge from a DDI dataset before training on the insect bite dataset.  
-  ta_avg.py – Implements task arithmetic by averaging non-output weights from DDI and insect models to enhance insect bite classification performance.  
+  InceptionV3_fst_finetune.py – Improves an the model by transferring knowledge from a DDI dataset before training on the insect bite dataset.  
+  ta_avg.py – Implements task arithmetic by averaging non-output weights from DDI and insect models to enhance bite classification performance.  
   ta_add.py – Similair to above but adds non-output weights.
   
 DenseNet169:   
