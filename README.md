@@ -25,3 +25,4 @@ DenseNet169:
   DenseNet.py – Trains the model on the insect bite dataset.  
   DenseNet_finetuned.py – Improves the model by transferring knowledge from a DDI dataset before training on the insect bite dataset.  
   DenseNet_add.py – Implements task arithmetic by adding non-output weights from DDI and insect models to enhance insect bite classification performance.  
+  
