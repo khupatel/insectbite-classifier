@@ -1,4 +1,5 @@
-Insect bite classification using deep learning models trained on images across diverse skin tones. Thesis project for undergraduate honors research in 2025.  
+Insect bite classification using deep learning models trained on images across diverse skin tones.  
+Thesis project for undergraduate honors research in 2025.  
 This repo contains the dataset and models: custom CNN, InceptionV3, and DenseNet169.   
   
 Datasets: 
@@ -25,4 +26,6 @@ DenseNet169:
   DenseNet.py – Trains the model on the insect bite dataset.  
   DenseNet_finetuned.py – Improves the model by transferring knowledge from a DDI dataset before training on the insect bite dataset.  
   DenseNet_add.py – Implements task arithmetic by adding non-output weights from DDI and insect models to enhance insect bite classification performance.  
+
+  To run the models, please modify the file paths to the datasets in the code to reflect your system.
   
