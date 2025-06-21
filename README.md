@@ -2,7 +2,7 @@ Insect bite classification using deep learning models trained on images across d
 Thesis project for undergraduate honors research in 2025.  
 This repo contains the dataset and models: custom CNN, InceptionV3, and DenseNet169.   
   
-Datasets: 
+Datasets:  
   bite_dataset – Primary dataset of insect bite images (ant, bed bug, chigger, mosquito, and tick bites).  
   bite_dataset_fst – Insect bite dataset that tests the models for Fitzpatrick skin types III - VI to evaluate performance of bites on dark skin tones.  
   ddi_dataset – Stanford DDI (Diverse Dermatology Images) dataset used for pretraining to improve generalization on dark skin tones and conditions. https://ddi-dataset.github.io/index.html#dataset  
